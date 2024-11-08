@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victoire4
-- 👀 I’m interested in Data Science and Automotive technologies.
-- 💞️ I’m looking to collaborate on any Data science and Automotive technology project.
+- 👀 I’m interested in data analysis | science. I'm analyzing data and making predictions that help decision-making and positively impact the company's income.
+- 💞️ I want to collaborate on any data analysis | science project.
 - 📫 You can reach me by my email address: victoire1djimna@gmail.com
 
 <!---
